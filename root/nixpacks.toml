@@ -1,0 +1,5 @@
+[pkgs]
+python = "3.11"
+
+[build]
+build_cmds = ["pip install -r requirements.txt"]
